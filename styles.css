@@ -5,13 +5,10 @@ body {
 
 h1 {
     color: pink 
-
-    
-    
+}
+   
 #my image {
-    height: auto;
-    width: auto;
-    max-width; 100px;
-    max height: 100px;
+    height: 100px;
+    width: 50px;
 }
    
