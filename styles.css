@@ -1,25 +1,53 @@
 
 body {
-    background-color: #d4e3e4}
+    background-color: #001a21;
+}
 
-.title{
-    color: #e813a8
-    font-family: 'Roboto', sans-serif;
+
+h1 {
+    color: #e813a8;
+    font-family:'Roboto Mono', monospace;
+}
+
+h2 { 
+    color: #aabbbf;
+    font-family: 'Roboto Mono', monospace;
 }
    
 #my-image {
     height: 200px;
-    width: 300px
+    width: 200px;
+    border-radius: 50%;
     
 }
-img {
-    border-radius: 50%;
+p {
+
+    color: #aabbbf;
+    font-family: 'Open Sans', sans-serif;
 }
+    
 #forest-image {
     height: 200px;
     width: 100px;
-
 }
-p { 
-    color: #12272b
+#coffee-image {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+h3 {
+    color: #e813a8;
+    font-family: 'Roboto Mono', monospace;
+}
+#grid-area {
+    background-color: #aabbbf;
+    color: #001a21;
+    display: flex;
+    margin: 30px 30px 30px 30px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%
+    
+
 }
