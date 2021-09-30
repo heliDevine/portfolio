@@ -1,14 +1,25 @@
 
 body {
-    background-color: blue;
-}
+    background-color: #d4e3e4}
 
-h1 {
-    color: pink 
+.title{
+    color: #e813a8
+    font-family: 'Roboto', sans-serif;
 }
    
-#my image {
-    height: 100px;
-    width: 50px;
+#my-image {
+    height: 200px;
+    width: 300px
+    
 }
-   
+img {
+    border-radius: 50%;
+}
+#forest-image {
+    height: 200px;
+    width: 100px;
+
+}
+p { 
+    color: #12272b
+}
